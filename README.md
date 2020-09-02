@@ -4,7 +4,7 @@ This application replicates wikis from a connection plattform and stores them in
 
 # Installation
 
-Clone the repository and associate the On-Disk Project with a newly created NSF or simply use the compiled NSF. Remember to create a working directory for the application.
+Clone the repository and associate the On-Disk Project with a newly created nsf or simply use the compiled nsf. Remember to create a working directory for the application.
 
 # Domino Server
 
