@@ -1,11 +1,10 @@
 # Wiki Replicator
 
-This application replicates wikis from a connection plattform and stores them in an nsf for offline use. It was developed by Jonas Baier in an endeavor to have access to the content of important wikis during downtimes of the connections platform.
+This application replicates wikis from a connection plattform and stores them in an nsf for offline use. It was developed by Jonas Baier for CEIR in an endeavor to have access to the content of important wikis during downtimes of the connections platform.
 
 # Installation
 
-Create a working directory for the application. ***to be decided***
-
+Clone the repository and associate the On-Disk Project with a newly created NSF or simply use the compiled NSF. Remember to create a working directory for the application.
 
 # Domino Server
 
