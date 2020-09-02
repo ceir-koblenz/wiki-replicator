@@ -1,6 +1,6 @@
 # Wiki Replicator
 
-This application replicates wikis from a connection plattform and stores them in an nsf for offline use. It was developed by Jonas Baier for CEIR in an endeavor to have access to the content of important wikis during downtimes of the connections platform.
+This application replicates wikis from a connections plattform and stores them in an nsf for offline use. It was developed by Jonas Baier for CEIR in an endeavor to have access to the content of important wikis during downtimes of the connections platform.
 
 # Installation
 
