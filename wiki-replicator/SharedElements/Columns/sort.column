@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note xmlns="http://www.lotus.com/dxl" class="view">
+<item name="$FormulaClass" sign="true">
+<text>1</text>
+</item>
+<item name="$SourceSeqTime" sign="true">
+<datetime>20200321T154743,87+01</datetime>
+</item>
+<item name="$SourceSequence" sign="true">
+<text>00000001</text>
+</item>
+<item name="$SourceURL" sign="true">
+<textlist>
+<text>Notes:///C1258530005834E7//69CE87AF178FDC39C1258532005144E4</text>
+<text>Notes:///C1258530005834E7:C1258530005834E7:8BDA6C5E//22E</text>
+</textlist>
+</item>
+<item name="$ClassName" sign="true">
+<text>View</text>
+</item>
+<item name="$SourceDbPath" sign="true">
+<text>CN=devil/O=uniko/C=DE!!tutorial\manualAp.nsf</text>
+</item>
+<item name="$CacheDocVersion" sign="true">
+<number>1</number>
+</item>
+<item name="$TITLE" sign="true">
+<text>sort</text>
+</item>
+<item name="$Index" sign="true">
+<text/>
+</item>
+<item name="$Formula" summary="true" sign="true">
+<formula compiled="true">
+7gACAMIAAwAkMTAABQAEAGZvcm0BAAQAd2lraQoCrwCiABAAAAAAAAAAAAAAAK4AkgAFAAQAZm9y
+bQEACAB3aWtpUGFnZQoCrwB4ABAAAAAAAAAAAADwP64AaAAFAAQAZm9ybQEABwBjb21tZW50AAoC
+rwBOABAAAAAAAAAAAAAAQK4APgAFAAQAZm9ybQEACgBhdHRhY2htZW50CgKvACIAEAAAAAAAAAAA
+AAhArgASAAAAAAAAAADAWECuAAQAtQkDAAUAHgAaAAMAAwAJAAQAJDEwJENvbmZsaWN0JFJFRgQA
+BAAAAAgAZgADAA==
+</formula>
+</item>
+<item name="$Collation" summary="true">
+<rawitemdata type="2">
+EAABAABEgGYAAAADACQxMA==
+</rawitemdata>
+</item>
+<item name="$ViewFormat" summary="true" sign="true">
+<rawitemdata type="5">
+AQABAAEACAAAAFZDCQADAAQA2AAAAFAAAQAACgAAAAAAAAAAAAICAAAAJDEwc29ydNgAAgDCAAMA
+JDEwAAUABABmb3JtAQAEAHdpa2kKAq8AogAQAAAAAAAAAAAAAACuAJIABQAEAGZvcm0BAAgAd2lr
+aVBhZ2UKAq8AeAAQAAAAAAAAAAAA8D+uAGgABQAEAGZvcm0BAAcAY29tbWVudAAKAq8ATgAQAAAA
+AAAAAAAAAECuAD4ABQAEAGZvcm0BAAoAYXR0YWNobWVudAoCrwAiABAAAAAAAAAAAAAIQK4AEgAA
+AAAAAAAAwFhArgAEALUJAwAHABQADgAJMlI4UjE0UjIwUjI2UiYAAQAAAAEBAAkBAAAKAQEOCgAA
+AQCtKwEAAQABAAAAAAAAAAAAV0MBAQAJAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA//8AAAAAAAAA
+AAAAAAAAAEIAAAAAAAEA////AAUA////AAEAAAAAAAAAAAAAAAAAAQD///8AAQD///8AAAABAAAA
+AAABAAAAAAABAAAAAAAAAAgAAAAAAAEA
+</rawitemdata>
+</item>
+<item name="$Comment" sign="true">
+<text/>
+</item>
+<item name="$Flags">
+<text>^Y</text>
+</item>
+</note>

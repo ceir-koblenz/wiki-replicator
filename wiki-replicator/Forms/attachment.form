@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note xmlns="http://www.lotus.com/dxl" class="form">
+<item name="$Comment" sign="true">
+<text/>
+</item>
+<item name="$HTMLCode" sign="true">
+<rawitemdata type="1">
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata>
+</item>
+<item name="$TITLE">
+<text>attachment</text>
+</item>
+<item name="$Info" sign="true">
+<rawitemdata type="1">
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata>
+</item>
+<item name="$SubForms" sign="true">
+<textlist>
+<text>bundled</text>
+<text>header</text>
+<text>sidebarWikis</text>
+<text>content</text>
+<text>components</text>
+</textlist>
+</item>
+<item name="$SubForm_RepIDs" sign="true">
+<textlist>
+<text>0000000000000000</text>
+<text>0000000000000000</text>
+<text>0000000000000000</text>
+<text>0000000000000000</text>
+<text>0000000000000000</text>
+</textlist>
+</item>
+<item name="$WindowTitle" sign="true">
+<formula>title</formula>
+</item>
+<item name="$Flags">
+<text>C</text>
+</item>
+<item name="Body" placeholder="true">
+<rawitemdata type="0"/>
+</item>
+<item name="$Fields">
+<text>Body</text>
+</item>
+<item name="$Body" sign="true">
+<rawitemdata type="1">
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAhf8IAAEAAAqBAoL/WgACAAAA
+AAAAAAAAoAUAAKAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA
+AAAAFISgBQAAoAUAAAAAZAABAAAABAAAAIMEAgCF/wgAAQAACt0GAACt/3H/KQAAAAAAAwAYAAcA
+AAAAAAAAAAAAAAAAAAAAAAAAAABidW5kbGVkAK3/FAAOAAgAAAAIAGJ1bmRsZWQArgLeBgAArgCF
+/wgAAQAACoECgwQCAIX/CAABAAAK
+</rawitemdata>
+</item>
+</note>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note xmlns="http://www.lotus.com/dxl" class="form">
+<item name="$Comment" sign="true">
+<text/>
+</item>
+<item name="accessable" summary="false" sign="true">
+<number>0</number>
+</item>
+<item name="$HTMLCode" sign="true">
+<rawitemdata type="1">
+X/8QAAIADwAHAAAAAAAAAA==
+</rawitemdata>
+</item>
+<item name="$TITLE">
+<text>content</text>
+</item>
+<item name="$Info" sign="true">
+<rawitemdata type="1">
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata>
+</item>
+<item name="$Flags">
+<text>CUAx3</text>
+</item>
+<item name="Body" placeholder="true">
+<rawitemdata type="0"/>
+</item>
+<item name="$Fields">
+<text>Body</text>
+</item>
+<item name="$Body" sign="true">
+<rawitemdata type="1">
+gQKC/1oAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJSHAAAAAAAAAAAAAAAAAQAAAAQAAACDBAEAzP8IAAAAAACF/wgAAQAACt0G
+AACt/6n/NgABABgABAAqACoACgAEAAAAGAABAAcAY29udGVudAD7ATMBwgEDAAcADAAFAAkwUzBF
+AIX/CAABAAAKqgLeBgAArgDN/wgAAAAAAN0GAACF/4X/CAABAAQK0ggBAAAA/wDeBgAAhf+BAoL/
+WgACAAAAAAAAAAAAoAUAAKAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAEAAAAAlIcAAAAAAAAAAAAAAAABAAAABAAAALv/MgACAAAABAIAAAAAJAAKAAQAAAASAAUA
+BABsaW5r+wFSAQMABwAMAAUACTBTMEUAgwQCAIX/CAABAAAK3QYAAIr//v9QAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAACK/zgAgAAZAAAAAgAAAAAAAAIBAAAKEAAAAAAAAAAEAAAAAAAQAAAADgAFAAQAQm9k
+eQMAQm9keWIOAQCEAAAAAAABAAAA3gYAAIr/hf8IAAEAAAqBAoMEAQCF/wgAAQAACoECgwQBAIX/
+CAABAAAKgQKDBAEAhf8IAAEAAAo=
+</rawitemdata>
+</item>
+</note>

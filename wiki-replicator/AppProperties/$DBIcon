@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='11.0' maintenanceversion='1.0'
+ replicaid='C12585C3002ED955'>
+<noteinfo noteid='50e' unid='46811C0602E8D489C1258566004A1EDA' sequence='3'>
+<created><datetime dst='true'>20200512T152935,62+02</datetime></created>
+<modified><datetime dst='true'>20200813T103155,72+02</datetime></modified>
+<revised><datetime dst='true'>20200702T113223,17+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20200813T103155,71+02</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20200813T103155,71+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Julian Mosen/O=uniko/C=de</name><name>CN=devil/O=uniko/C=DE</name><name
+>CN=kobis/O=uniko/C=de</name></updatedby>
+<wassignedby><name>CN=kobis/O=uniko/C=de</name></wassignedby>
+<item name='$TITLE'><text>$DBIcon</text></item>
+<item name='$Flags'><text>34Ci~Q</text></item>
+<item name='$ImagesWide' sign='true'><number>1</number></item>
+<item name='$ImagesHigh' sign='true'><number>1</number></item>
+<item name='$ImagesColorize' sign='true'><number>0</number></item>
+<item name='$FileSize' sign='true'><number>1482</number></item>
+<item name='$ImageData' sign='true'>
+<rawitemdata type='1'>
+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
+AElFTkSuQmCC
+</rawitemdata></item>
+<item name='$MimeType' sign='true'><text>image/png</text></item>
+<item name='$FileModDT' sign='true'><datetime dst='true'>20200512T152927,65+02</datetime></item>
+<item name='$ImageNames' sign='true'><text>C:\Users\Julian Mosen\Nextcloud\Wiki Replicator\notes-icon-wiki-rep.png</text></item>
+<item name='$DesignerVersion' sign='true'><text>8.5.3</text></item></note>
+

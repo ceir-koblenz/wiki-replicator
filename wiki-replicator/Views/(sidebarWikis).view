@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note xmlns="http://www.lotus.com/dxl" class="view">
+<item name="$FormulaClass" sign="true">
+<text>1</text>
+</item>
+<item name="$TITLE" sign="true">
+<text>(sidebarWikis)</text>
+</item>
+<item name="$Index" sign="true">
+<text/>
+</item>
+<item name="$Formula" summary="true" sign="true">
+<formula compiled="true">
+ggAFADIALQAFAAgABQAFAAkABAB3aWtpVXVpZHRpdGxldGl0bGUkQ29uZmxpY3QkUkVGAAQABAAA
+ADYABQAEAEZvcm0BAAgAd2lraVBhZ2UKAgQABQAEAEZvcm0BAAQAd2lraQoCBAAdAgQAAwAHABQA
+DgAJTDFTNFM1UzEwUzExUw==
+</formula>
+</item>
+<item name="$Collation" summary="true">
+<rawitemdata type="2">
+FQABAABECGYHAAAIAHdpa2lVdWlk
+</rawitemdata>
+</item>
+<item name="$ViewFormat" summary="true" sign="true">
+<rawitemdata type="5">
+AQADAAUAKQQAAFZDAwAIAAgAAAAAAFAAAQAACgABAAAAAAAAAAICAAAAVkMQBAUADgAAAAAACAAB
+AAAKAAAAAAAAAAAAAgIAAABWQwAEBQAPAAAAAABQAAEAAAoAAAAAAAAAAAACAgAAAHdpa2lVdWlk
+d2lraVV1aWR0aXRsZXJlc3BvbnNlQ29sdW1udGl0bGVXaWtpIE5hdmlnYXRpb24mAAYAAAABAQAJ
+AQAACgEBDgoAAAEArSsBABMAAQAAAAAAAAAAAFdDAQEACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AP//AAAAAAAAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD//wAAAAAAAAAA
+AAAAAAAAV0MBAQAOAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA//8AAAAAAAAAAAAAAAAAAEIAAAAA
+AAEA///QAAUA////AAEAAAAAAAAAAAAAAAAAAQD///8AAQD//9AAAAABAAAAAAABAAAAAAABAAAA
+AAAAAAgAAAAAAAEA
+</rawitemdata>
+</item>
+<item name="$Comment" sign="true">
+<text/>
+</item>
+<item name="$Flags">
+<text>PY</text>
+</item>
+</note>

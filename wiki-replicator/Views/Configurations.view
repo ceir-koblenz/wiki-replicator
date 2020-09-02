@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note xmlns="http://www.lotus.com/dxl" class="view">
+<item name="$FormulaClass" sign="true">
+<text>1</text>
+</item>
+<item name="$Readers" sign="true" readers="true">
+<textlist>
+<text>LocalDomainServers</text>
+<text>LocalDomainAdmins</text>
+</textlist>
+</item>
+<item name="$TITLE" sign="true">
+<text>Configurations</text>
+</item>
+<item name="$Index" sign="true">
+<text/>
+</item>
+<item name="$Formula" summary="true" sign="true">
+<formula compiled="true">
+agAFADIALgAFAAgACAADAAkABABwbGF0Zm9ybXVzZXJuYW1ldXJsJENvbmZsaWN0JFJFRgQABAAA
+ACYABQAEAEZvcm0BAA0AQ29uZmlndXJhdGlvbgAKAgQABAADAAcADAAFAAkzUzRTAA==
+</formula>
+</item>
+<item name="$Collation" summary="true">
+<rawitemdata type="2">
+BgAAAABE
+</rawitemdata>
+</item>
+<item name="$ViewFormat" summary="true" sign="true">
+<rawitemdata type="5">
+AQADAAMACAAAAFZDAAAIAAgAAAAAAJIAAQAACgAAAAAAAAAAAAICAAAAVkMAAAgACAAAAAAAUAAB
+AAAKAAAAAAAAAAAAAgIAAABWQwAAAwADAAAAAAC5AAEAAAoAAAAAAAAAAAACAgAAAHBsYXRmb3Jt
+UGxhdGZvcm11c2VybmFtZVVzZXJuYW1ldXJsVVJMJgABAAAAAQEACQEAAAoBAQ4KAAABAK0rAQAB
+AAEAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAAAAAAAAAAAAAAAAAA
+V0MBAQAJAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA//8AAAAAAAAAAAAAAAAAAFdDAQEACQAAAAAA
+AAAAAAAAAAAAAAAAAAQAAAAAAP//AAAAAAAAAAAAAAAAAABCAAAAAAABAP///wAFAP///wABAAAA
+AAAAAAAAAAAAAAEA////AAEA////AAAAAQAAAAAAAQAAAAAAAQAAAAAAAAAIAAAAAAABAA==
+</rawitemdata>
+</item>
+<item name="$Comment" sign="true">
+<text/>
+</item>
+<item name="$Flags">
+<text>PY</text>
+</item>
+<item name="$SelQuery" sign="true">
+<rawitemdata type="f">
+gQYAAAAAif8ZAAAAAAABAA0AQ29uZmlndXJhdGlvbgA=
+</rawitemdata>
+</item>
+<item name="$V5ACTIONS" sign="true">
+<rawitemdata type="1">
+vRw/AAAAAQABAAAAAQAAAAAAAAAAAAAACAACAHn/bAABAPDw8AABAAAAAAAJAAAAAAABAPDw8AAA
+AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=
+</rawitemdata>
+</item>
+</note>
